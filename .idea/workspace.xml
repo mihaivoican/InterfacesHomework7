@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8347a52-48ff-4959-9a29-3baf55268c75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/InterfacesHomework7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/AdvertisorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Contract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/EmailProvider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Facebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1/PrintingServices.java" afterDir="false" />
+    <list default="true" id="b8347a52-48ff-4959-9a29-3baf55268c75" name="Changes" comment="Commit 1">
+      <change afterPath="$PROJECT_DIR$/src/Ex2/BRD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/BT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/BankInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/ING.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +43,20 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Ex2.Main">
+    <configuration name="Ex2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2.Main" />
+      <module name="InterfacesHomework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1.Main" />
       <module name="InterfacesHomework7" />
@@ -64,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex2.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -77,6 +86,14 @@
       <option name="presentableId" value="Default" />
       <updated>1662969398884</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit 1">
+      <created>1662971000935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662971000935</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,5 +106,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 1" />
   </component>
 </project>
