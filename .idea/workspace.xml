@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8347a52-48ff-4959-9a29-3baf55268c75" name="Changes" comment="Commit ex2">
-      <change afterPath="$PROJECT_DIR$/src/Ex3/AnimalInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3/Mouse.java" afterDir="false" />
+    <list default="true" id="b8347a52-48ff-4959-9a29-3baf55268c75" name="Changes" comment="Commit ex3">
+      <change afterPath="$PROJECT_DIR$/src/Ex4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex3.Main">
+  <component name="RunManager" selected="Application.Ex4.Main">
     <configuration name="Ex2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex2.Main" />
       <module name="InterfacesHomework7" />
@@ -69,6 +66,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4.Main" />
+      <module name="InterfacesHomework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex1.Main" />
       <module name="InterfacesHomework7" />
@@ -84,6 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4.Main" />
         <item itemvalue="Application.Ex3.Main" />
         <item itemvalue="Application.Ex2.Main" />
         <item itemvalue="Application.Main" />
@@ -113,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662975265258</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit ex3">
+      <created>1662980067730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662980067730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1" />
     <MESSAGE value="Commit ex2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit ex2" />
+    <MESSAGE value="Commit ex3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit ex3" />
   </component>
 </project>
