@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8347a52-48ff-4959-9a29-3baf55268c75" name="Changes" comment="Commit ex4">
-      <change beforePath="$PROJECT_DIR$/src/Ex4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4/Main.java" afterDir="false" />
+    <list default="true" id="b8347a52-48ff-4959-9a29-3baf55268c75" name="Changes" comment="Commit corectii">
+      <change afterPath="$PROJECT_DIR$/src/extra/Algorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,10 +35,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/WON8/7/InterfacesHomework7"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Ex4.Main">
+  <component name="RunManager" selected="Application.Algorithm">
+    <configuration name="Algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="extra.Algorithm" />
+      <module name="InterfacesHomework7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="extra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ex2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex2.Main" />
       <module name="InterfacesHomework7" />
@@ -92,6 +107,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Algorithm" />
         <item itemvalue="Application.Ex4.Main" />
         <item itemvalue="Application.Ex3.Main" />
         <item itemvalue="Application.Ex2.Main" />
@@ -136,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1662990060579</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit corectii">
+      <created>1663067767658</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663067767658</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Commit corectii">
+      <created>1663067851649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663067851649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +185,7 @@
     <MESSAGE value="Commit ex2" />
     <MESSAGE value="Commit ex3" />
     <MESSAGE value="Commit ex4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit ex4" />
+    <MESSAGE value="Commit corectii" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit corectii" />
   </component>
 </project>
